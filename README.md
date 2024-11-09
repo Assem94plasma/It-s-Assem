@@ -1,4 +1,5 @@
-CV and Certifications Repository
+CV and Certifications Repository.
+
 This repository contains my professional CV and certifications that I have obtained over the course of my career. Here, you will find:
 
 CV: A detailed resume that highlights my educational background, work experience, skills, and projects.
